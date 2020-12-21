@@ -1,0 +1,202 @@
+[
+    {
+        "desc": "Winter",
+        "color": "#B0A8B7"
+    },
+    {
+        "desc": "Blueberry",
+        "color": "#867B8C"
+    },
+    {
+        "desc": "Smoothie",
+        "color": "#C4A0A6"
+    },
+    {
+        "desc": "Peach",
+        "color": "#EBBCB5"
+    },
+    {
+        "desc": "Anise",
+        "color": "#D2DACD"
+    },
+    {
+        "desc": "Camouflage",
+        "color": "#A7B09B"
+    },
+    {
+        "desc": "To mow the lawn",
+        "color": "#496456"
+    },
+    {
+        "desc": "Forest Green",
+        "color": "#37484E"
+    },
+    {
+        "desc": "Natural",
+        "color": "#C77959"
+    },
+    {
+        "desc": "Terracotta",
+        "color": "#9E523B"
+    },
+    {
+        "desc": "Orange is the new black",
+        "color": "#D88A57"
+    },
+    {
+        "desc": "Sleeping",
+        "color": "#6D857D"
+    },
+    {
+        "desc": "Beige",
+        "color": "#DECAB2"
+    },
+    {
+        "desc": "Your home",
+        "color": "#BD906B"
+    },
+    {
+        "desc": "Teddy Bear",
+        "color": "#2A2128"
+    },
+    {
+        "desc": "Sand",
+        "color": "#D6CCBD"
+    },
+    {
+        "desc": "Juicy",
+        "color": "#B97665"
+    },
+    {
+        "desc": "Mountain",
+        "color": "#859295"
+    },
+    {
+        "desc": "Boy",
+        "color": "#485355"
+    },
+    {
+        "desc": "Scarlet",
+        "color": "#CD3B2A"
+    },
+    {
+        "desc": "Winner",
+        "color": "#F5A331"
+    },
+    {
+        "desc": "Room",
+        "color": "#104C82"
+    },
+    {
+        "desc": "Aqua",
+        "color": "#59C6A9"
+    },
+    {
+        "desc": "Kaki",
+        "color": "#4A5336"
+    },
+    {
+        "desc": "Denim",
+        "color": "#788EA5"
+    },
+    {
+        "desc": "Mango",
+        "color": "#F1803C"
+    },
+    {
+        "desc": "Duck",
+        "color": "#2B7590"
+    },
+    {
+        "desc": "Morning",
+        "color": "#EBD59C"
+    },
+    {
+        "desc": "Girly",
+        "color": "#E9A799"
+    },
+    {
+        "desc": "Mine",
+        "color": "#9C4623"
+    },
+    {
+        "desc": "Grape",
+        "color": "#6B5874"
+    },
+    {
+        "desc": "Whale",
+        "color": "#184856"
+    },
+    {
+        "desc": "Deep Orange",
+        "color": "#B95823"
+    },
+    {
+        "desc": "Tea",
+        "color": "#D1AD96"
+    },
+    {
+        "desc": "Amber",
+        "color": "#A15E46"
+    },
+    {
+        "desc": "Ruby",
+        "color": "#872416"
+    },
+    {
+        "desc": "Lilac",
+        "color": "#D4C1D3"
+    },
+    {
+        "desc": "Cameleon",
+        "color": "#608EA8"
+    },
+    {
+        "desc": "Turquoise",
+        "color": "#6FA6A8"
+    },
+    {
+        "desc": "Summer",
+        "color": "#AFD3D5"
+    },
+    {
+        "desc": "Air",
+        "color": "#EAE9F0"
+    },
+    {
+        "desc": "Top",
+        "color": "#ACAAC6"
+    },
+    {
+        "desc": "Classic",
+        "color": "#243856"
+    },
+    {
+        "desc": "Dress",
+        "color": "#A09DA3"
+    },
+    {
+        "desc": "Red",
+        "color": "#691F1F"
+    },
+    {
+        "desc": "Pink",
+        "color": "#A84356"
+    },
+    {
+        "desc": "Fancy",
+        "color": "#C3808A"
+    },
+    {
+        "desc": "Glitter",
+        "color": "#CAB0AF"
+    },
+    {
+        "desc": "Flower",
+        "color": "#D9AC62"
+    },
+    {
+        "desc": "Taupe",
+        "color": "#7D716E"
+    }
+]
